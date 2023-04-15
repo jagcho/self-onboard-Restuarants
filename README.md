@@ -40,5 +40,44 @@ To deploy this project go to self-onboard Restuarants directory and run below co
 
 
 
-## Demo
+## Demo 
+Live hosted on cyclic.sh
 
+https://average-spacesuit-newt.cyclic.app/
+
+
+## Documentation
+
+you can find React.js [Documentation](https://react.dev/)
+
+Check out the [Quick Start](https://react.dev/learn) for quick overview 
+
+
+Find Nodejs [Documentation](https://nodejs.org/en/docs) .
+
+Find MongoDB [Documentation](https://www.mongodb.com/docs/).
+
+#### Major NPM Modules
+
+[Mongoose](https://www.npmjs.com/package/mongoose)
+
+[Express](https://www.npmjs.com/package/express)
+
+[Dotenv](https://www.npmjs.com/package/dotenv)
+
+[Axios](https://www.npmjs.com/package/axios)
+
+[react-router-dom](https://www.npmjs.com/package/react-router-dom)
+
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at jagadishchodry@gmail.com
+
+
+## Authors
+
+- [Jagadish M](https://github.com/jagcho?tab=repositories)

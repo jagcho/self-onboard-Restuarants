@@ -1,0 +1,33 @@
+.footer {
+  color: white;
+  padding: 25px;
+  background: #000000;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+.footer a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+.footer a:hover {
+  color: #ffefba;
+  border-bottom: 1px solid #ffefba;
+}
+
+.Thankyou{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+
+.btn1{
+  position: absolute;
+  top: 100%;
+  left: 40%;
+}

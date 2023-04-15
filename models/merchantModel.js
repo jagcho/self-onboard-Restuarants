@@ -26,7 +26,6 @@ const merchantSchema = new mongoose.Schema({
         type:String,
         required:true
     },
-
     averageDailyTransactions:{
         type:String,
     }

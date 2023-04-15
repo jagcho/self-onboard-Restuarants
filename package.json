@@ -1,7 +1,7 @@
 {
   "name": "self-onboard-restuarants",
   "version": "1.0.0",
-  "description": "",
+  "description": "collect merchant details",
   "main": "server.js",
   "type": "module",
   "scripts": {

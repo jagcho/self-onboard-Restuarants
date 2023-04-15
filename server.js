@@ -2,7 +2,7 @@ import express from 'express'
 import dotenv from 'dotenv'
 import morgan from 'morgan'
 import connectDB from './config/db.js'
-import authRoutes from './routes/authRouth.js'
+import authRoutes from './routes/Route.js'
 import cors from 'cors'
 import path from "path";
 import {fileURLToPath} from 'url';
